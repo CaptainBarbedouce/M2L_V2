@@ -1,0 +1,37 @@
+html{
+	background-color:grey;
+}
+section{
+	margin-left:50px;
+	margin-right:50px;
+	height:100%;
+	background:#2E9AFE;
+}
+img#img-acc{
+	width:60%;
+	height:60%;
+}
+img#right{
+	float:right;
+	margin-right:5px;
+}
+p#left{
+	float:left;
+}
+table
+{
+    border-collapse: collapse;
+}
+td
+{
+    border: 1px solid black;
+}
+#adr
+{
+   float: right;
+}
+
+.textCenter
+{
+text-align: center;
+}
